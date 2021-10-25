@@ -3,7 +3,7 @@
 <p align="left"> 
   BOM DIA, BOA TARDE ou BOA NOITE<br>
   Estudante de <strong>Engenheiro de Software</strong> na <strong>FAG - CASCAVEL/PR</strong>.<br>
-  <strong>Front-end Pleno</strong>
+  <strong>Front-end Pleno</strong><br>
   Focado nos estudos de FRONT-END e BACK-END e afins.
 </p>
 <h3> :rocket: &nbsp;Minhas Skills </h3>
