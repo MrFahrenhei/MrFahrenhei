@@ -40,7 +40,15 @@
 
 <br>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=MrFahrenhei&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+## **GitHub Estatísticas**
+
+<a href="https://github.com/MrFahrenhei">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrFahrenhei&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/MrFahrenhei">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrFahrenhei&show_icons=true&theme=dracula&line_height=27" alt="**Vinicius** github stats"/>
+</a>
 
 <br>
 <img src="https://img.shields.io/static/v1?label=Overview&message=Vinicius%20Valle%20Beraldo&color=f8efd4&style=for-the-badge&logo=GitHub">
