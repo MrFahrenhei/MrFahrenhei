@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="![image](https://user-images.githubusercontent.com/80232541/140838986-ccfb59ee-caeb-4d66-b60a-970a31b47c76.png)" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   BOM DIA, BOA TARDE ou BOA NOITE<br>
