@@ -4,7 +4,7 @@
   Dear viewer<br>
   I'm Third-level student <br>
   Discipline: <strong>Software Engineer</strong><br>
-  <strong>FAG - CASCAVEL/PR</strong>.<br>
+  Place: <strong>FAG - CASCAVEL/PR Brazil</strong>.<br>
   Focus: <strong>Front-end</strong><br>
   willing to working in other areas.
 </p>
