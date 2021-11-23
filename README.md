@@ -6,11 +6,11 @@
   Discipline: <strong>Software Engineer</strong><br>
   Place: <strong>FAG - CASCAVEL/PR Brazil</strong>.<br>
   Focus: <strong>Front-end</strong><br>
-  willing to working in other areas.
+  Willing to working in other areas.
 </p>
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp;Skills </h3>
 
-**Aplicações e Dados**
+**Application**
 
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -25,7 +25,7 @@
   ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
   
-  **Utilidades**
+  **Utilities**
 
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
@@ -37,7 +37,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   
-**Ferramentas de Desenvolvimento**
+**My Tools**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
@@ -48,7 +48,7 @@
 
 <br>
 
-## **GitHub Estatísticas**
+## **GitHub Statistic**
 
 <a href="https://github.com/MrFahrenhei">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrFahrenhei&theme=dracula&hide_langs_below=1" />
@@ -62,7 +62,7 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=Vinicius%20Valle%20Beraldo&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <hr>
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> :earth_americas: &nbsp;Find me: </h3> 
 
 [![Linkedin: Vinícius Valel Beraldo](https://img.shields.io/badge/-Vinicius%20Valle%20Beraldo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/vin%C3%ADcius-valle-beraldo-9b85a2208/)
 [![Gmail Badge](https://img.shields.io/badge/-viniciusvalleb@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:viniciusvalleb@hotmail.com)
