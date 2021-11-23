@@ -5,7 +5,7 @@
   I'm Third-level student <br>
   Discipline: <strong>Software Engineer</strong><br>
   Place: <strong>FAG - CASCAVEL/PR Brazil</strong>.<br>
-  Focus: <strong>Front-end</strong><br>
+  Focus: <strong>Web development</strong><br>
   Willing to working in other areas.
 </p>
 <h3> :rocket: &nbsp;Skills </h3>
