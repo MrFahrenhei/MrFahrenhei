@@ -1,10 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  BOM DIA, BOA TARDE ou BOA NOITE<br>
-  Acadêmico de <strong>Engenheiro de Software</strong> na <strong>FAG - CASCAVEL/PR</strong>.<br>
-  <strong>Front-end Pleno</strong><br>
-  Focado nos estudos de FRONT-END e BACK-END e afins.
+  Dear viewer<br>
+  I'm Third-level student <br>
+  Discipline: <strong>Software Engineer</strong><br>
+  <strong>FAG - CASCAVEL/PR</strong>.<br>
+  Focus: <strong>Front-end</strong><br>
+  willing to working in other areas.
 </p>
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
