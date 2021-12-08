@@ -25,6 +25,7 @@
   ![SQLite](https://img.shields.io/badge/-SQLITE-333333?style=flat&logo=sqlite)
   ![Dart](https://img.shields.io/badge/Dart-333333?style=flat&logo=dart&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-333333?style=flat&logo=php&logoColor=white)
+  ![WORDPRESS](https://img.shields.io/badge/WORDPRESS-333333?style=flat&logo=php&logoColor=white)
   
   **Utilities**
 
