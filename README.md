@@ -7,6 +7,7 @@
   Place: <strong>FAG - CASCAVEL/PR Brazil</strong>.<br>
   Focus: <strong>Web development</strong><br>
   Willing to working in other areas.
+  I'm also an editor in my free time.
 </p>
 <h3> :rocket: &nbsp;Skills </h3>
 
@@ -46,6 +47,10 @@
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   ![Kali](https://img.shields.io/badge/-Kali_Linux-333333?style=flat&logo=kali-linux&logoColor=007ACC)
+
+**My free-time Tools**
+![Photoshop](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=flat&logo=Adobe-Photoshop&logoColor=007ACC)
+  
 <br/>
 
 <br>
