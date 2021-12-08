@@ -18,13 +18,13 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-  ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=1572B6)
+  ![Lua](https://img.shields.io/badge/Lua-333333?style=flat&logo=lua&logoColor=1572B6)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![SQLite](https://img.shields.io/badge/-SQLITE-333333?style=flat&logo=sqlite)
-  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+  ![Dart](https://img.shields.io/badge/Dart-333333?style=flat&logo=dart&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-333333?style=flat&logo=php&logoColor=white)
   
   **Utilities**
 
