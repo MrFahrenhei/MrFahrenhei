@@ -29,13 +29,6 @@
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
   
-  
-  
-  **Utilities**
-
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  
 
 **DevOps**
 
