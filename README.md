@@ -33,17 +33,17 @@
 **DevOps**
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=100000)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2CA5E0)
   
 **My Tools**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-  ![Xampp](https://img.shields.io/badge/-Xampp-333333?style=flat&logo=xampp&logoColor=007ACC)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  ![Kali](https://img.shields.io/badge/-Kali_Linux-333333?style=flat&logo=kali-linux&logoColor=007ACC)
+  ![Xampp](https://img.shields.io/badge/-Xampp-333333?style=flat&logo=xampp&logoColor=F37623)
+  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=0052CC)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=F24E1E)
+  ![Kali](https://img.shields.io/badge/-Kali_Linux-333333?style=flat&logo=kali-linux&logoColor=557C94)
 
 **My free-time Tools**
 
