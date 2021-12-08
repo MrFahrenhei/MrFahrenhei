@@ -17,8 +17,8 @@
   ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Sass](https://img.shields.io/badge/Sass-333333?style=flat&logo=Sass&logoColor=CC6699)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![PHP](https://img.shields.io/badge/PHP-333333?style=flat&logo=php&logoColor=white)
-  ![WORDPRESS](https://img.shields.io/badge/WORDPRESS-333333?style=flat&logo=wordpress&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-333333?style=flat&logo=php&logoColor=777BB4)
+  ![WORDPRESS](https://img.shields.io/badge/WORDPRESS-333333?style=flat&logo=wordpress&logoColor=21759B)
   ![Dart](https://img.shields.io/badge/Dart-333333?style=flat&logo=dart&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=white)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C) 
@@ -26,7 +26,7 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![SQLite](https://img.shields.io/badge/-SQLITE-333333?style=flat&logo=sqlite)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=ED8B00)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
   
 
