@@ -45,7 +45,7 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  
+  ![Kali](https://img.shields.io/badge/-Kali-333333?style=flat&logo=kali&logoColor=007ACC)
 <br/>
 
 <br>
