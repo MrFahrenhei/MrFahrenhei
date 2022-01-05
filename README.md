@@ -58,13 +58,11 @@
 
 ## **GitHub Statistic**
 
-<a href="https://github.com/MrFahrenhei">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrFahrenhei&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/MrFahrenhei">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrFahrenhei&show_icons=true&theme=dracula&line_height=27" alt="**Vinicius** github stats"/>
-</a>
+<div align="center">
+  <a href="https://github.com/MrFahrenhei">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrFahrenhei&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrFahrenhei&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <br>
 <img src="https://img.shields.io/static/v1?label=Overview&message=Vinicius%20Valle%20Beraldo&color=f8efd4&style=for-the-badge&logo=GitHub">
