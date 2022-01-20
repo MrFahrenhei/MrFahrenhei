@@ -2,8 +2,7 @@
 
 <p align="left"> 
   Dear viewer<br>
-  I'm Third-level student <br>
-  Discipline: <strong>Software Engineer</strong><br>
+  I'm Third-level <strong>Software Engineer</strong> student <br>
   Place: <strong>FAG - CASCAVEL/PR Brazil</strong>.<br>
   Focus: <strong>Web development</strong><br>
   Willing to working in other areas.
