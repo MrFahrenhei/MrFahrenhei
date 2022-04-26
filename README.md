@@ -35,6 +35,7 @@
   ![Font Awesome](https://img.shields.io/badge/Font_Awesome-333333?style=flat&logo=fontawesome&logoColor=339AF0)
   ![Jquery](https://img.shields.io/badge/jQuery-333333?style=flat&logo=jquery&logoColor=0769AD)
   ![NPM](https://img.shields.io/badge/npm-333333?style=flat&logo=npm&logoColor=CB3837)
+  ![Symfony](https://img.shields.io/badge/Symfony-333333?style=flat&logo=Symfony&logoColor=000000)
 
 **DevOps**
 
