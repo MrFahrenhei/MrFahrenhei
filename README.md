@@ -42,7 +42,7 @@
   ![Xampp](https://img.shields.io/badge/-Xampp-333333?style=flat&logo=xampp&logoColor=F37623)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=0052CC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=F24E1E)
-  ![Linux](https://img.shields.io/badge/Linux-E34F26?style=flat&logo=linux&logoColor=557C94)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 **My free-time Tools**
 
