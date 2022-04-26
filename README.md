@@ -25,10 +25,12 @@
   ![Lua](https://img.shields.io/badge/Lua-333333?style=flat&logo=lua&logoColor=1572B6)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=005C84)
   ![SQLite](https://img.shields.io/badge/-SQLITE-333333?style=flat&logo=sqlite&logoColor=07405E)
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter&logoColor=02569B)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=ED8B00)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
   
+**Frameworks**
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter&logoColor=02569B)
+  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 **DevOps**
 
