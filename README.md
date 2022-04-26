@@ -10,7 +10,7 @@
 </p>
 <h3> :rocket: &nbsp;Skills </h3>
 
-**Application**
+**Languages**
 
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5&logoColor=E34F26)
   ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -42,6 +42,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=100000)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2CA5E0)
   ![Bitbucket](https://img.shields.io/badge/Bitbucket-333333?style=flat&logo=bitbucket&logoColor=0747a6)
+  ![Postman](https://img.shields.io/badge/Postman-333333?style=flat&logo=Postman&logoColor=FF6C37)
   
 **My Tools**
 
