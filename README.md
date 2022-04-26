@@ -43,6 +43,7 @@
   ![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-333333.svg?style=flat&logo=intellij-idea&logoColor=white)
   ![Xampp](https://img.shields.io/badge/-Xampp-333333?style=flat&logo=xampp&logoColor=F37623)
   ![PHPStorm](http://img.shields.io/badge/-PHPStorm-333333?style=flat&logo=phpstorm&logoColor=white)
+  ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=0052CC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=F24E1E)
   ![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux&logoColor=black)
