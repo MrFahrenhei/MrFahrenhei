@@ -34,6 +34,7 @@
   ![React](https://img.shields.io/badge/React-333333?style=flat&logo=react&logoColor=61DAFB)
   ![Font Awesome](https://img.shields.io/badge/Font_Awesome-333333?style=flat&logo=fontawesome&logoColor=339AF0)
   ![Jquery](https://img.shields.io/badge/jQuery-333333?style=for-the-badge&logo=jquery&logoColor=0769AD)
+  ![NPM](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 
 **DevOps**
 
