@@ -40,7 +40,7 @@
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-  ![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
+  ![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-333333.svg?style=flat&logo=intellij-idea&logoColor=white)
   ![Xampp](https://img.shields.io/badge/-Xampp-333333?style=flat&logo=xampp&logoColor=F37623)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=0052CC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=F24E1E)
