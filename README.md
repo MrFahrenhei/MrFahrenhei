@@ -18,7 +18,6 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Typescript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript&logoColor=007ACC)
   ![PHP](https://img.shields.io/badge/PHP-333333?style=flat&logo=php&logoColor=777BB4)
-  ![WORDPRESS](https://img.shields.io/badge/WORDPRESS-333333?style=flat&logo=wordpress&logoColor=21759B)
   ![Dart](https://img.shields.io/badge/Dart-333333?style=flat&logo=dart&logoColor=0175C2)
   ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=3776AB)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C) 
@@ -34,6 +33,7 @@
   ![React](https://img.shields.io/badge/React-333333?style=flat&logo=react&logoColor=61DAFB)
   ![Font Awesome](https://img.shields.io/badge/Font_Awesome-333333?style=flat&logo=fontawesome&logoColor=339AF0)
   ![Jquery](https://img.shields.io/badge/jQuery-333333?style=flat&logo=jquery&logoColor=0769AD)
+  ![WORDPRESS](https://img.shields.io/badge/WORDPRESS-333333?style=flat&logo=wordpress&logoColor=21759B)
   ![Symfony](https://img.shields.io/badge/Symfony-333333?style=flat&logo=Symfony&logoColor=000000)
 
 **DevOps**
