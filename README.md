@@ -34,7 +34,6 @@
   ![React](https://img.shields.io/badge/React-333333?style=flat&logo=react&logoColor=61DAFB)
   ![Font Awesome](https://img.shields.io/badge/Font_Awesome-333333?style=flat&logo=fontawesome&logoColor=339AF0)
   ![Jquery](https://img.shields.io/badge/jQuery-333333?style=flat&logo=jquery&logoColor=0769AD)
-  ![NPM](https://img.shields.io/badge/npm-333333?style=flat&logo=npm&logoColor=CB3837)
   ![Symfony](https://img.shields.io/badge/Symfony-333333?style=flat&logo=Symfony&logoColor=000000)
 
 **DevOps**
@@ -43,6 +42,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=100000)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2CA5E0)
   ![Bitbucket](https://img.shields.io/badge/Bitbucket-333333?style=flat&logo=bitbucket&logoColor=0747a6)
+  ![NPM](https://img.shields.io/badge/npm-333333?style=flat&logo=npm&logoColor=CB3837)
   ![Postman](https://img.shields.io/badge/Postman-333333?style=flat&logo=Postman&logoColor=FF6C37)
   
 **My Tools**
