@@ -53,6 +53,7 @@
 ![Photoshop](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=flat&logo=Adobe-Photoshop&logoColor=007ACC)
 ![Premiere](https://img.shields.io/badge/Adobe-Premiere-9999FF?style=flat&logo=Adobe-Premiere&logoColor=007ACC)
 ![After Effects](https://img.shields.io/badge/Adobe-After-CF96FD?style=flat&logo=Adobe-After&logoColor=007ACC)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat&logo=arduino&logoColor=white)
 ![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)
 
 <br/>
