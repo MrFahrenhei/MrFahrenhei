@@ -16,6 +16,7 @@
   ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Sass](https://img.shields.io/badge/Sass-333333?style=flat&logo=Sass&logoColor=CC6699)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Typescript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-333333?style=flat&logo=php&logoColor=777BB4)
   ![WORDPRESS](https://img.shields.io/badge/WORDPRESS-333333?style=flat&logo=wordpress&logoColor=21759B)
   ![Dart](https://img.shields.io/badge/Dart-333333?style=flat&logo=dart&logoColor=0175C2)
