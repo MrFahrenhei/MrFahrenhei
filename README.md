@@ -57,7 +57,7 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=F24E1E)
   ![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux&logoColor=black)
   ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)
-  (yes, I use vim)
+  (¬¬)
 
 **My free-time Tools**
 
