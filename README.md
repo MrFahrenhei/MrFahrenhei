@@ -22,7 +22,7 @@
   ![Lua](https://img.shields.io/badge/Lua-333333?style=flat&logo=lua&logoColor=1572B6)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=005C84)
   ![SQLite](https://img.shields.io/badge/-SQLITE-333333?style=flat&logo=sqlite&logoColor=07405E)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=ED8B00)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=ED8B00)
   
 **Frameworks**
 
