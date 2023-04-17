@@ -2,8 +2,7 @@
 
 <p align="left"> 
   Dear viewer<br>
-  I'm a <strong>Brazilian Software Engineer</strong> student and a <strong>Developer</strong><br>
-  Focus: <strong>Web development</strong><br>
+  I'm a <strong>Brazilian Computer Engineer</strong> student and a <strong>Web Fullstack Developer</strong><br>
   Willing to working in other areas.
   I'm also an editor in my free time.
 </p>
