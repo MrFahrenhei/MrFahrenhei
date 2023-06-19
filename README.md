@@ -89,7 +89,7 @@
           📷 <a href="https://www.instagram.com/marquis_cthulhu_styles/">Follow me on instagram</a>
         </li>
         <li>
-          📬 <a href=mailto:viniciusvalleb@hotmail.com>Contact-me on email</a>
+          📬 <a href=mailto:vvberaldo@proton.me>Contact-me on email</a>
         </li>
       </ul>
     </td>
