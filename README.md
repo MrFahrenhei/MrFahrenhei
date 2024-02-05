@@ -23,7 +23,7 @@
 
 **Languages**
 
-[![SkillIcons](https://skillicons.dev/icons?i=php,perl,rust,html,css,js,ts,lua,c,cpp,dart,nodejs,java,ruby&theme=light)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=php,perl,rust,html,css,js,ts,lua,c,cpp,py,dart,nodejs,java,ruby&theme=light)](https://skillicons.dev)<br/>
   
 **Frameworks**
 
@@ -31,11 +31,11 @@
 
 **DB**
 
-[![SkillIcons](https://skillicons.dev/icons?i=mysql,sqlite,postgresql&theme=light)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgresql&theme=light)](https://skillicons.dev)<br/>
 
 **DevOps**
 
-[![SkillIcons](https://skillicons.dev/icons?i=git,github,docker,postman&theme=light)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=git,github,docker,nginx,postman&theme=light)](https://skillicons.dev)<br/>
   
 **My Tools**
 
