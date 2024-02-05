@@ -1,66 +1,46 @@
+## About Me ##
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
-  Dear viewer<br>
-  I'm a <strong>Brazilian Computer Engineer</strong> student and a <strong>Web Fullstack Developer</strong><br>
-  Willing to working in other areas.
-  I'm also an editor in my free time.
-</p>
+-  I'm a <strong>Brazilian Computer Engineer</strong> student and a <strong>Web Fullstack Developer</strong><br>
+-  Willing to working in other areas.
+-  I'm also an editor in my free time.
+
+## My goals 2024 🎯
+
+-  Ruby: RPG page
+-  Springboot: DCC manual
+-  Symfony: Organized my bills
+-  C/C++: Hardware hackying
+
 <h3> :rocket: &nbsp;Skills </h3>
 
 **Languages**
 
-  ![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5&logoColor=E34F26)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![PHP](https://img.shields.io/badge/PHP-333333?style=flat&logo=php&logoColor=777BB4)
-  ![Dart](https://img.shields.io/badge/Dart-333333?style=flat&logo=dart&logoColor=0175C2)
-  ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=3776AB)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C) 
-  ![Lua](https://img.shields.io/badge/Lua-333333?style=flat&logo=lua&logoColor=1572B6)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=005C84)
-  ![SQLite](https://img.shields.io/badge/-SQLITE-333333?style=flat&logo=sqlite&logoColor=07405E)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=ED8B00)
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,lua,c,cpp,php,perl,rust,html,css,dart,nodejs,java,ruby&theme=light)](https://skillicons.dev)<br/>
   
 **Frameworks**
 
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter&logoColor=02569B)
-  ![React](https://img.shields.io/badge/React-333333?style=flat&logo=react&logoColor=61DAFB)
-  ![Font Awesome](https://img.shields.io/badge/Font_Awesome-333333?style=flat&logo=fontawesome&logoColor=339AF0)
-  ![Jquery](https://img.shields.io/badge/jQuery-333333?style=flat&logo=jquery&logoColor=0769AD)
-  ![WORDPRESS](https://img.shields.io/badge/WORDPRESS-333333?style=flat&logo=wordpress&logoColor=21759B)
-  ![Symfony](https://img.shields.io/badge/Symfony-333333?style=flat&logo=Symfony&logoColor=000000)
+[![SkillIcons](https://skillicons.dev/icons?i=flutter,react,jquery,symfony,bootstrap,wordpress,spring,rails&theme=light)](https://skillicons.dev)<br/>
+
+**DB**
+
+[![SkillIcons](https://skillicons.dev/icons?i=mysql,sqlite,postgresql&theme=light)](https://skillicons.dev)<br/>
 
 **DevOps**
 
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=100000)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2CA5E0)
-  ![Bitbucket](https://img.shields.io/badge/Bitbucket-333333?style=flat&logo=bitbucket&logoColor=0747a6)
-  ![NPM](https://img.shields.io/badge/npm-333333?style=flat&logo=npm&logoColor=CB3837)
-  ![Postman](https://img.shields.io/badge/Postman-333333?style=flat&logo=Postman&logoColor=FF6C37)
+[![SkillIcons](https://skillicons.dev/icons?i=git,github,docker,postman&theme=light)](https://skillicons.dev)<br/>
   
 **My Tools**
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-  ![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-333333.svg?style=flat&logo=intellij-idea&logoColor=white)
-  ![Xampp](https://img.shields.io/badge/-Xampp-333333?style=flat&logo=xampp&logoColor=F37623)
-  ![PHPStorm](http://img.shields.io/badge/-PHPStorm-333333?style=flat&logo=phpstorm&logoColor=white)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=0052CC)
-  ![Pycharm](https://img.shields.io/badge/PyCharm-333333.svg?&style=flat&logo=PyCharm&logoColor=white)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=F24E1E)
-  ![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux&logoColor=black)
-  ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)
-  (¬¬)
+[![SkillIcons](https://skillicons.dev/icons?i=vscode,eclipse,emacs,linux,vim,neovim&theme=light)](https://skillicons.dev)<br/>
+![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-333333.svg?style=flat&logo=intellij-idea&logoColor=white)
+![PHPStorm](http://img.shields.io/badge/-PHPStorm-333333?style=flat&logo=phpstorm&logoColor=white)
+![Pycharm](https://img.shields.io/badge/PyCharm-333333.svg?&style=flat&logo=PyCharm&logoColor=white)
 
 **My free-time Tools**
 
-![Photoshop](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=flat&logo=Adobe-Photoshop&logoColor=007ACC)
-![Premiere](https://img.shields.io/badge/Adobe-Premiere-9999FF?style=flat&logo=Adobe-Premiere&logoColor=007ACC)
-![After Effects](https://img.shields.io/badge/Adobe-After-CF96FD?style=flat&logo=Adobe-After&logoColor=007ACC)
-![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat&logo=arduino&logoColor=white)
+[![SkillIcons](https://skillicons.dev/icons?i=ps,ae,au,arduino,&theme=light)](https://skillicons.dev)<br/>
 ![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)
 
 <br/>
