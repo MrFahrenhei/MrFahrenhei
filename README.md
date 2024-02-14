@@ -4,7 +4,8 @@
 
 -  I'm a <strong>Brazilian Computer Engineer</strong> student and a <strong>Web Fullstack Developer</strong><br>
 -  Willing to working in other areas.
--  I'm also an editor in my free time.
+-  Love to learn new things.
+-  I build random projects and CLI tools.
 
 ## :earth_americas: &nbsp;Find me: ##
 
