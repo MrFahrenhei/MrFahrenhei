@@ -28,7 +28,7 @@
 
 **Languages**
 
-[![SkillIcons](https://skillicons.dev/icons?i=php,perl,rust,html,css,js,ts,lua,c,cpp,py,dart,java,ruby&theme=light)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=php,perl,rust,html,css,js,ts,lua,wasm,c,cpp,py,dart,java,kotlin,ruby&theme=light)](https://skillicons.dev)<br/>
   
 **Frameworks**
 
@@ -40,17 +40,19 @@
 
 **DevOps**
 
-[![SkillIcons](https://skillicons.dev/icons?i=git,github,docker,nginx,postman,nodejs&theme=light)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=git,github,docker,nginx,postman,nodejs,cmake,opencv,&theme=light)](https://skillicons.dev)<br/>
   
 **My Tools**
 
-[![SkillIcons](https://skillicons.dev/icons?i=vscode,eclipse,emacs,linux,vim,neovim,idea&theme=light)](https://skillicons.dev)<br/>
-![PHPStorm](http://img.shields.io/badge/-PHPStorm-333333?style=flat&logo=phpstorm&logoColor=white)
-![Pycharm](https://img.shields.io/badge/PyCharm-333333.svg?&style=flat&logo=PyCharm&logoColor=white)
+[![SkillIcons](https://skillicons.dev/icons?i=vscode,vscodium,eclipse,emacs,linux,vim,neovim,androidstudio,clion,phpstorm,idea&theme=light)](https://skillicons.dev)<br/>
+
+**OS**
+
+[![SkillIcons](https://skillicons.dev/icons?i=debian,arch,kali,mint,windows&theme=light)](httpps://skillicons.dev)<br/>
 
 **My free-time Tools**
 
-[![SkillIcons](https://skillicons.dev/icons?i=ps,ae,au,arduino,&theme=light)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=ps,ae,au,arduino,raspberrypi,&theme=light)](https://skillicons.dev)<br/>
 ![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)
 
 <br/>
