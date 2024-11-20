@@ -13,12 +13,15 @@
 [![Gmail Badge](https://img.shields.io/badge/-vvberaldo@proton.me-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:vvberaldo@proton.me)
 [![GitHub MrFahrenhei]( https://img.shields.io/github/followers/MrFahrenhei?label=follow&style=social)](https://github.com/MrFahrenhei)
 
-## My goals 2024 🎯
+## My goals 🎯
 
--  Ruby: RPG page
--  Springboot: DCC manual
--  Symfony: Organized my bills
--  C/C++: Hardware hackying
+-  Ruby: RPG page (rpgonrails)
+-  Springboot/JFrame: DCC Manual
+-  PHP: Organized my bills
+-  C/C++: Hardware hacking esp32
+-  C/C++: Physics simulation and Math visualization
+-  Kotlin: Tetris original addfree
+-  Assembly: Turing Machine
 
 <h3> :rocket: &nbsp;Skills </h3>
 
