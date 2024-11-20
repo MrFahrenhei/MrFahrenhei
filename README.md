@@ -22,6 +22,7 @@
 -  C/C++: Physics simulation and Math visualization
 -  Kotlin: Tetris original addfree
 -  Assembly: Turing Machine
+-  Js/CSS: Design System
 
 <h3> :rocket: &nbsp;Skills </h3>
 
