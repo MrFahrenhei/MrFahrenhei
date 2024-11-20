@@ -40,7 +40,7 @@
 
 **DevOps**
 
-[![SkillIcons](https://skillicons.dev/icons?i=git,github,docker,nginx,postman,nodejs,cmake,opencv,&theme=light)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=git,github,bitbucket,docker,nginx,postman,nodejs,cmake,opencv,&theme=light)](https://skillicons.dev)<br/>
   
 **My Tools**
 
