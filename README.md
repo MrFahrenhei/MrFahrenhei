@@ -2,8 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
--  I'm a <strong>Brazilian Computer Engineer</strong> student and a <strong>Web Fullstack Developer</strong><br>
--  Willing to working in other areas.
+-  I'm a <strong>Brazilian Computer Engineer</strong><br>
+-  Willing to working in any areas.
 -  Love to learn new things.
 -  I build random projects and CLI tools.
 
