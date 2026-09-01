@@ -16,21 +16,12 @@
 <h3> :rocket: &nbsp;Tech Stack & Tools </h3>
 
 ### 💻 Languages & Frameworks
-[![SkillIcons](https://skillicons.dev/icons?i=c,cpp,py,js,ts,php,lua,dart,java,kotlin,gtk,qt,nodejs&theme=light)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=c,cpp,py,js,ts,php,java,kotlin,gtk,qt&theme=light)](https://skillicons.dev)
 
-### 🗄️ Databases
-[![SkillIcons](https://skillicons.dev/icons?i=mysql,sqlite,postgresql,mongodb&theme=light)](https://skillicons.dev)
+### 🚀 Infrastructure
+[![SkillIcons](https://skillicons.dev/icons?i=docker,linux,nginx,postman,grafana&theme=light)](https://skillicons.dev)
 
-### 🚀 DevOps, Infrastructure & Tools
-[![SkillIcons](https://skillicons.dev/icons?i=git,github,bitbucket,docker,nginx,postman,cmake,opencv,grafana&theme=light)](https://skillicons.dev)
-
-### 🖥️ Operating Systems
-[![SkillIcons](https://skillicons.dev/icons?i=debian,arch,kali,mint,windows&theme=light)](https://skillicons.dev)
-
-### 🧰 IDEs & Editors
-[![SkillIcons](https://skillicons.dev/icons?i=vscode,vscodium,neovim,vim,emacs,clion,phpstorm,idea,androidstudio,eclipse&theme=light)](https://skillicons.dev)
-
-### 🎨 Creative, Hardware & Hobbies
+### 🎨 Hobbies
 [![SkillIcons](https://skillicons.dev/icons?i=arduino,raspberrypi,blender,ps,ae,au&theme=light)](https://skillicons.dev)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/)
 <br/>
