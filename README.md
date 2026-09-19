@@ -17,11 +17,7 @@
 
 ### 💻 Languages & Frameworks
 [![SkillIcons](https://skillicons.dev/icons?i=c,cpp,py,js,php,java,kotlin,gtk,qt&theme=light)](https://skillicons.dev)
-
-| For PHP | For Java |
-| :---: | :---: |
-| [![SkillIcons](https://skillicons.dev/icons?i=laravel,vue&theme=light)](https://skillicons.dev) | [![SkillIcons](https://skillicons.dev/icons?i=spring,angular&theme=light)](https://skillicons.dev) |
-
+[![SkillIcons](https://skillicons.dev/icons?i=laravel,vue,spring,angular&theme=light)](https://skillicons.dev)
 
 ### 🚀 Infrastructure
 [![SkillIcons](https://skillicons.dev/icons?i=docker,linux,nginx,postman,grafana&theme=light)](https://skillicons.dev)
