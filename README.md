@@ -33,7 +33,7 @@
 
 | Profile Overview | Top Languages |
 | :---: | :---: |
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrFahrenhei&theme=dracula) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrFahrenhei&layout=compact&langs_count=7&theme=dracula) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrFahrenhei&theme=dracula) | [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=MrFahrenhei&langs_count=5&disable_animations=true&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=MrFahrenhei&langs_count=5&disable_animations=true&theme=dracula) |
 
 </div>
 
