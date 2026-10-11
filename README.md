@@ -16,7 +16,7 @@
 <h3> :rocket: &nbsp;Tech Stack & Tools </h3>
 
 ### 💻 Languages & Frameworks
-[![SkillIcons](https://skillicons.dev/icons?i=c,cpp,py,js,php,java,kotlin,gtk,qt&theme=light)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=c,cpp,py,js,php,java,kotlin,clojure,gtk,qt&theme=light)](https://skillicons.dev)
 [![SkillIcons](https://skillicons.dev/icons?i=laravel,vue,spring,angular&theme=light)](https://skillicons.dev)
 
 ### 🚀 Infrastructure
